@@ -11,7 +11,9 @@ Skills: Python / Java / Javascript / C# / C++ / Docker / ML
 - ⚡ Fun fact: I did two years of Philosophy and I teach English on weekends. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](/in/joao-francisco-maciel-teixeira-stefani/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joao-francisco-maciel-teixeira-stefani/)  
+
+
 
 
 
