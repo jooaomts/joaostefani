@@ -1,4 +1,4 @@
-### Hi there 👋, I am João Stefani
+### 👋, I am João Stefani
 #### Machine Learning Engineer
 Hi there, my name, as stated up there, is João.
 
